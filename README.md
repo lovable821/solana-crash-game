@@ -67,6 +67,6 @@
 
 ### Clone & Install
 ```sh
-git clone https://github.com/0xalberto/Rocket-Crash-Game.git
+git clone https://github.com/lovable821/solana-crash-game.git
 cd  
 yarn install
